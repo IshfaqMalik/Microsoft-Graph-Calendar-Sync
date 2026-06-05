@@ -117,7 +117,7 @@ using Delta Lake merge operations.
 
 This repository contains no production credentials.
 
-Replace the following placeholders before execution:
+
 
 ```python
 TENANT_ID
